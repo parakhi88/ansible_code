@@ -1,6 +1,6 @@
 ---
 
--  hosts : dev
+-  hosts : ansible-node1
    become: true
    name: 4-playbook-install-webserver-apache
    tasks:
